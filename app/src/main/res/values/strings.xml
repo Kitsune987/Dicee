@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dicee2</string>
+    <string name="button_text">Roll</string>
+    <string name="contentDescription_logo">Logo</string>
+    <string name="contentDescription_leftDie">Left Die</string>
+    <string name="contentDescription_rightDie">Right Die</string>
+    <string name="contentDescription_button">Button</string>
+</resources>
